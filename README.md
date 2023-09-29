@@ -9,3 +9,8 @@ Leveraging the OpenAI's chatGPT, website content can be tokenized, and be conver
 
 # Demo
 In this Jupyter Notebook, first python script scrapes through website using Beautiful Soup and downloads html contents, in this instance `ulm.edu` and generates **9533** text content file. Then it is tokenized and converted to embeddings.
+
+![chat1]('/documentation/chat1.png')
+![chat2]('/documentation/chat2.png')
+
+Note: Refere to [web-qa.pdf]('./web-qa.pdf) for in depth result.
